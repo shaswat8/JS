@@ -66,12 +66,12 @@ console.log(courseInstructor);
 //     "price": "free"
 // }
 
-[
-    {},
-    {},
-    {}
+// [
+//     {},
+//     {},
+//     {}
 
-]
+// ]
 
 
 
